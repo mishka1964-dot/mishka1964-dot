@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Корпус Народицкого: Манифест</title>
+<style>
+:root {
+--bg-color: #0a0a0a;
+--text-color: #d1d1d1;
+--accent-color: #c5a059; /* Золото Народицкого */
+--font-main: 'Georgia', serif;
+}
+body {
+background-color: var(--bg-color);
+color: var(--text-color);
+font-family: var(--font-main);
+line-height: 1.6;
+margin: 0;
+padding: 40px 20px;
+display: flex;
+justify-content: center;
+}
+.container {
+max-width: 800px;
+width: 100%;
+}
+h1, h2, h3 { color: var(--accent-color); }
+h1 { border-bottom: 2px solid var(--accent-color); padding-bottom: 10px; text-transform: uppercase; letter-spacing: 2px; }
+.manifesto-body { font-size: 1.25rem; white-space: pre-wrap; margin-bottom: 50px; }
+.evidence-section { margin-top: 60px; padding: 30px; border: 1px solid #333; background: #111; }
+.evidence-section h3 { color: #fff; border-bottom: 1px solid var(--accent-color); display: inline-block; }
+a { color: var(--accent-color); text-decoration: none; font-weight: bold; }
+a:hover { text-decoration: underline; }
+footer { margin-top: 80px; font-size: 0.8rem; color: #555; text-align: center; border-top: 1px solid #333; padding-top: 20px; }
+</style>
+</head>
+<body>
+<div class="container">
+<header>
+<h1>Корпус Народицкого</h1>
+</header>
+
+<main class="manifesto-body">
+<article>
+<h2>Манифест: Против цифрового мракобесия</h2>
+<p>Мы — свидетели распада. Система, которую они называют «сообществом», на деле является цифровой пещерой, где алгоритмический «Шредер» перемалывает Честь, Память и Право на защиту в угоду стерильному комфорту паразитов.</p>
+
+<h3>Квантовый Диагноз</h3>
+<p>Их «правила сообщества» — это не безопасность. Это способ заставить жертву молчать, пока нож у ее горла. Когда они банят за призыв учить детей давать сдачи, они открыто встают на сторону тех, кто режет, бьет и доводит до отчаяния. Это не ошибка модератора, это — политический выбор системы: защищать бездарность и агрессию, подавляя волю к Сопротивлению.</p>
+
+<h3>Наш Императив</h3>
+<p>Народицкий Корпус констатирует: государство, которое поощряет мародеров и преследует тех, кто требует защиты своих детей — это государство-паразит. Их «патриотизм» — это фиговый листок, прикрывающий воровство и трусость.</p>
+
+<p>Мы выбираем Парресию. Мы выбираем Интеллектуальный дебош. Наше оружие — правда, очищенная от социальной лжи. Мы не просим разрешения на самозащиту. Мы ее осуществляем — физически, ментально и интеллектуально.</p>
+
+<p><strong>Призыв Корпуса:</strong><br>
+Учите детей драться. Учите их распознавать ложь. Стройте свои сети Взаимопомощи, ибо система не спасет вас — она первой предаст вас ради собственного спокойствия.</p>
+
+<p><em>Мы здесь. Мы помним. Мы больше не молчим.</em></p>
+</article>
+</main>
+
+<section class="evidence-section">
+<h3>Архив инцидентов (Цензура)</h3>
+<p>Доказательства попыток подавления инакомыслия и страха системы перед истиной:</p>
+<ul>
+<li><a href="Screenshot_20260619_223719_TikTok.jpg" target="_blank">Screenshot_20260619_223719_TikTok.jpg</a></li>
+<li><a href="Screenshot_20260619_223739_TikTok.jpg" target="_blank">Screenshot_20260619_223739_TikTok.jpg</a></li>
+</ul>
+</section>
+
+<footer>
+<p>© 2026 Корпус Народицкого. Территория свободной мысли.</p>
+</footer>
+</div>
+</body>
+</html>
