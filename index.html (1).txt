@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Корпус Народицкого</title>
+<style>
+body { font-family: 'Courier New', Courier, monospace; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; background: #0f0f0f; color: #d4d4d4; }
+.epigraph { font-style: italic; border-left: 2px solid #555; padding-left: 20px; margin-bottom: 40px; color: #888; }
+.formula-box { background: #1a1a1a; padding: 20px; text-align: center; border: 1px solid #333; margin: 30px 0; }
+h1, h2 { color: #fff; text-transform: uppercase; letter-spacing: 2px; }
+.dossier-entry { border: 1px solid #444; padding: 20px; margin-bottom: 20px; }
+footer { margin-top: 50px; border-top: 1px solid #333; padding-top: 20px; font-size: 0.9em; color: #666; }
+</style>
+</head>
+<body>
+
+<div class="epigraph">
+<p>«Свободы сеятель пустынный,<br>
+Я вышел рано, до звезды;<br>
+Рукою чистой и безвинной<br>
+В порабощенные бразды<br>
+Бросал живительное семя —<br>
+Но потерял я только время,<br>
+Да добрые блага и труды...»</p>
+</div>
+
+<h1>Квантовый Диагноз Междуземелья</h1>
+<div class="formula-box">
+<img src="https://latex.codecogs.com/svg.latex?\large%20\color{white}\Psi_{\text{Народицкий}}(t)%20=%20\alpha(t)|E\rangle%20+%20\beta(t)|S\rangle%20+%20\gamma(t)|D\rangle" alt="Волновая функция Народицкого">
+</div>
+<p>Мы живем в эпоху тотальной декогеренции. Данный Корпус — это попытка удержания когерентности смысла в среде, стремящейся к энтропии.</p>
+
+<section id="dossier">
+<h2>Досье: Патология Цифровой Амнезии</h2>
+<div class="dossier-entry">
+<p><strong>Дата:</strong> 20 июня 2026 г.</p>
+<p><strong>Диагноз:</strong> Системная энцефалопатия смыслов. Среда отравлена девальвацией знания и алгоритмическим детерминизмом.</p>
+<p><strong>Задача:</strong> Фиксация фактов. Превращение каждого поста в кирпич интеллектуальной крепости.</p>
+</div>
+</section>
+
+<section id="legacy">
+<h2>Письмо наследникам</h2>
+<p>Если вы читаете это — значит, мои усилия по сохранению «золота и стали» Народицкого не прошли даром. Не ищите здесь ответов, ищите свободу мыслить.</p>
+</section>
+
+<footer>
+<p>Набат звучит. Корпус жив.</p>
+</footer>
+
+</body>
+</html>
